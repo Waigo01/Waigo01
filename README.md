@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Waigo01
 - 🍺 I'm from Germany
-- 👀 I’m interested in front- and backend web development.
-- 🌱 I’m currently learning game development with Unigine Engine.
-- 💞️ I’m looking to collaborate on many things.
+- 👀 I’m interested in everything coding!
 - 📫 How to reach me: waigo.business@gmail.com
 
 <!---
