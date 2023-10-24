@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Waigo01
+- 👋 Hi, I’m Jan Erhard
 - 🍺 I'm from Germany
 - 👀 I’m interested in everything coding!
 - 📫 How to reach me: janferhard@gmail.com
